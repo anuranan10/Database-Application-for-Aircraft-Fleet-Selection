@@ -1,10 +1,3 @@
-% Code Name: Bharadwaj_Final_Project
-% Code Description: Commercial Aircraft Purchase
-% Author: Anuranan Bharadwaj
-% Email: bharada3@my.erau.edu
-% Class: EGR115 - Section 3
-% Date: 12/11/2022
-
 clear
 clc
 close all
